@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+li {
+  display: inline;
+  padding: 1em;
+  font-family:'Orbitron';
+}
+
+#cover-image {
+  width:700px;
+  height:auto;
+  margin-bottom: 20px;
+}
+
+.time {
+  font-family:'Orbitron';
+}
+
+#cover-title {
+  font-family:'Rock Salt';
+  font-size:32px;
+  text-align:center;
+}
+
+a {
+  text-decoration: none;
+}
+
